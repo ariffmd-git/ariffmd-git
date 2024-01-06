@@ -1,11 +1,10 @@
-Hello! I’m Arif, and this is my GitHub account where I put a lot of stuff. I use GitHub to:
+Hello! I’m Arif, and this is my GitHub account. A little bit about myself - I document APIs - that's easy. Writing great API documentation is hard. I write code samples, applications, and API reference guides with attention to details that developers like!! 
+
+I use GitHub to:
 
 * Play around with programs in Python, Java, GoLang, and JavaScript:
 
 * I also use my GitHub to document APIs, API Best Practices, Processes, and anything related to APIs.
-
-* I document APIs - That's easy. Writing great API documentation is hard. I write code samples, applications, and API reference guides with attention to details that developers like!!
-
 
 ### *My Professional Odyssey*
 
